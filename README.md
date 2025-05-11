@@ -1,2 +1,2 @@
 # CI-CD
-This is Simple ci-cd project
+This is CI/CD Pipeline Implementation using Git, Jenkins, Docker, and Maven
